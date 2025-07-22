@@ -15,7 +15,7 @@ A sensor contraption (we will refer to this as fingi below) that sends data and 
 
 The fingi creates a bluetooth server. A compatible Bluetooth Low Energy  (BLE) device will serve as the client (via the app). The communication is done vis the Generic ATTribute Profile (GATT).
 
-#### Architecture Decisions
+#### GATT Transacrions
 
 TODO
 
