@@ -17,5 +17,9 @@ The fingi creates a bluetooth server. A compatible Bluetooth Low Energy  (BLE) d
 
 #### GATT Transacrions
 
-TODO
+The GATT transactions are also meant to be quite simple. We have one service. This service has multiple characteristics:
+
+- a read-only (notify) characteristic for the sensor time series data (just floats)
+- a read-only (notify) characteristic for the battery charge (a boolean that indicates a low battery charge)
+- a read/write (notify) property to trigger taring
 
