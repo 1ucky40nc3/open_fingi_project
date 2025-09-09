@@ -5,6 +5,29 @@ An Open-Source Project to Train your Finger Strength
 
 This project is a compilation of software, hardware and documentation to build your own finger strength trainer.
 
+## Getting Started
+
+This project has three parts:
+
+- a UI: the [fresh_fingi](https://github.com/1ucky40nc3/fresh_fingi)
+- hardware instructions and microcontroller code: [hardcore_fingi](https://github.com/1ucky40nc3/hardcore_fingi)
+- CAD documents: [Open Fingi Project V1](https://cad.onshape.com/documents/5c349e864819a3f7aafa01c6/w/9176c294fd9164e69fcd1a26/e/8c77ec7fedf361c3332a9188)
+
+All three parts are designed to work together - at least in some versions. Here comes the hard news: 
+
+> This is a hobby project and only supported/developed by me!
+
+My goal is to use this project as a fun learning experience. As part of the learning I am trying to improve my skills in documenting such a project and my design decisions.
+
+> Please don't expect complete instructions to get everything going smoothly!
+
+### Confirmed Version Compatiblity
+
+For the following versions of the UI, hardware and CAD parts I have confirmed the version compatiblity:
+
+
+
+
 ## Documentation
 
 ### Architecture
@@ -22,4 +45,5 @@ The GATT transactions are also meant to be quite simple. We have one service. Th
 - a read-only (notify) characteristic for the sensor time series data (just floats)
 - a read-only (notify) characteristic for the battery charge (a boolean that indicates a low battery charge)
 - a read/write (notify) property to trigger taring
+
 
