@@ -25,7 +25,9 @@ My goal is to use this project as a fun learning experience. As part of the lear
 
 For the following versions of the UI, hardware and CAD parts I have confirmed the version compatiblity:
 
-
+| [open_fingi_project](https://github.com/1ucky40nc3/open_fingi_project)         | [fresh_fingi](https://github.com/1ucky40nc3/fresh_fingi)                | [hardcore_fingi](https://github.com/1ucky40nc3/hardcore_fingi)             | [Open Fingi Project V1](https://cad.onshape.com/documents/5c349e864819a3f7aafa01c6/v/b8586a586bc7e66ccaa9be95/e/8c77ec7fedf361c3332a9188?showReturnToWorkspaceLink=true) |
+|--------------------------------------------------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [v0.0.1](https://github.com/1ucky40nc3/open_fingi_project/releases/tag/v0.0.1) | [v0.0.1](https://github.com/1ucky40nc3/fresh_fingi/releases/tag/v0.0.1) | [v0.0.1](https://github.com/1ucky40nc3/hardcore_fingi/releases/tag/v0.0.1) | [v0.0.1](https://cad.onshape.com/documents/5c349e864819a3f7aafa01c6/v/b8586a586bc7e66ccaa9be95/e/8c77ec7fedf361c3332a9188?showReturnToWorkspaceLink=true)                |
 
 
 ## Documentation
