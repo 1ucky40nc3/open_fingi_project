@@ -5,8 +5,6 @@ An Open-Source Project to Train your Finger Strength
 
 This project is a compilation of software, hardware and documentation to build your own finger strength trainer.
 
-## Getting Started
-
 This project has three parts:
 
 - a UI: the [fresh_fingi](https://github.com/1ucky40nc3/fresh_fingi)
@@ -20,6 +18,10 @@ All three parts are designed to work together - at least in some versions. Here 
 My goal is to use this project as a fun learning experience. As part of the learning I am trying to improve my skills in documenting such a project and my design decisions.
 
 > Please don't expect complete instructions to get everything going smoothly!
+
+## Getting Started
+
+To get started you will have to look into the projects yourself - sorry. Each part should provide you with enough information to get you going. Please refer to the GitHub repositories or CAD files in the compatible versions.
 
 ### Confirmed Version Compatiblity
 
